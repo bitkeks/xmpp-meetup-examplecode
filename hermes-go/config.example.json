@@ -1,0 +1,18 @@
+{
+    "HTTP": {
+        "Port": 27001
+    },
+    "XMPP": {
+        "User": "",
+        "Password": "",
+        "Resource": "hermes",
+        "Nick": "hermes",
+        "Receivers": ["admin@example.org"],
+        "Mucs": [
+            {
+                "Jid": "room@conference.example.org",
+                "Password": ""
+            }
+        ]
+    }
+}
