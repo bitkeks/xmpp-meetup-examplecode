@@ -1,0 +1,14 @@
+{
+    "xmpp": {
+        "username": "",
+        "password": "",
+        "muc_nick": "tooter",
+        "muc": "",
+        "admins": ["admin@jabber.org"]
+    },
+    "mastodon": {
+        "instance": "mastodon.social",
+        "account": "@account@mastodon.social",
+        "token": ""
+    }
+}
