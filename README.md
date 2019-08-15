@@ -23,7 +23,7 @@ Eingeschränkte Variante von [tigger](https://github.com/astro/tigger/)
 Im Verzeichnis `tigger-javascript` (mit yarn oder npm installiert):
 
   1. `npm install` oder `yarn install`
-  2. `node server.js [jid] [password] [MUIC-Id/Nick]
+  2. `node server.js [jid] [password] [MUIC-Id/Nick]`
 
 ## Python
 
