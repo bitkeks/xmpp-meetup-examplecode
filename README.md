@@ -14,10 +14,16 @@ Im Verzeichnis `hermes-go` (setzt mind. Go 1.11 für `go mod` voraus):
   3. `./bin/hermes -v -http`
 
 ## Java
-
+Aus zeitgründen eldier nicht vorbereitet
 
 ## JavaScript
 
+Eingeschränkte Variante von [tigger](https://github.com/astro/tigger/)
+
+Im Verzeichnis `tigger-javascript` (mit yarn oder npm installiert):
+
+  1. `npm install` oder `yarn install`
+  2. `node server.js [jid] [password] [MUIC-Id/Nick]
 
 ## Python
 
