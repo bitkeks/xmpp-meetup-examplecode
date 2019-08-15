@@ -14,7 +14,7 @@ Im Verzeichnis `hermes-go` (setzt mind. Go 1.11 für `go mod` voraus):
   3. `./bin/hermes -v -http`
 
 ## Java
-Aus zeitgründen eldier nicht vorbereitet
+Aus zeitgründen leider nicht vorbereitet
 
 ## JavaScript
 
